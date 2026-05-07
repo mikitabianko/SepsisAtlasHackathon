@@ -69,17 +69,16 @@ def create_chunks(text, chunk_size=1000):
 
     return chunks
 
-text_file = open('paperText.txt', 'r')
-text = text_file.read()
-
-
+# open data
 with open("combined_document.json", "r") as document_data_file:
     document_data = json.load(document_data_file)
 
-
+# create chunks
 for text_data in document_data["text_blocks"]:
     text_data["chunks"] = create_chunks(text_data["content"] )
 
+
+# create new document that includes chunks
 new_data = json.dumps(document_data, indent=4)
 with open("combined_document_with_chunks.json", "w") as result_file:
     result_file.write(new_data)
