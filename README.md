@@ -1,6 +1,6 @@
 Please place in root a folder with articles `/articles`
 
-Install 
+## Install 
 Windows:
 ``` bash
 python -m venv venv
