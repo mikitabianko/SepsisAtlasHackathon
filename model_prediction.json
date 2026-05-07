@@ -1,0 +1,41 @@
+[
+{
+"paper_id": "paper_01",
+"title": "Lactate and Sepsis Mortality",
+"population": "ICU patients with sepsis",
+"sample_size": 412,
+"predictor": "Lactate level",
+"outcome": "28-day mortality",
+"effect_size": "OR 1.8",
+"confidence_interval": "1.2-2.4",
+"p_value": "0.01",
+"source_quote": "Patients with elevated lactate had significantly increased mortality.",
+"page": 4
+},
+{
+"paper_id": "paper_02",
+"title": "SOFA Score Analysis",
+"population": "Emergency department patients",
+"sample_size": 201,
+"predictor": "SOFA score",
+"outcome": "Hospital mortality",
+"effect_size": "HR 2.1",
+"confidence_interval": "1.5-3.0",
+"p_value": "0.002",
+"source_quote": "Higher SOFA scores were associated with increased mortality risk.",
+"page": 7
+},
+{
+"paper_id": "paper_03",
+"title": "CRP Study",
+"population": "Not reported",
+"sample_size": null,
+"predictor": "CRP",
+"outcome": "ICU admission",
+"effect_size": "Not reported",
+"confidence_interval": "Not reported",
+"p_value": "Not reported",
+"source_quote": "The study did not report sufficient statistical evidence.",
+"page": 2
+}
+]
