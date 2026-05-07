@@ -1,0 +1,1050 @@
+{
+    "document_metadata": {
+        "total_pages": 8,
+        "pdf_metadata": {
+            "Title": "",
+            "Creator": "wkhtmltopdf 0.12.4",
+            "Producer": "Qt 4.8.7",
+            "CreationDate": "D:20220209030430Z"
+        },
+        "file_path": "./articles/Baloch_2022.pdf"
+    },
+    "extraction_stats": {
+        "total_text_blocks": 10,
+        "total_tables": 10,
+        "valid_tables": 9,
+        "pages": 8
+    },
+    "text_blocks": [
+        {
+            "block_id": 0,
+            "chunk_id": 0,
+            "page_number": 1,
+            "type": "text",
+            "role": "paragraph",
+            "content": "Review began 11/26/2021\nReview ended 01/05/2022\nPublished 01/09/2022\n\u00c2\u00a9 Copyright 2022\nBaloch et al. This is an open access article\ndistributed under the terms of the Creative\nCommons Attribution License CC-BY 4.0.,\nwhich permits unrestricted use, distribution,\nand reproduction in any medium, provided\nthe original author and source are credited.\nComparison of Pediatric Sequential Organ Failure\nAssessment and Pediatric Risk of Mortality III\nScore as Mortality Prediction in Pediatric\nIntensive Care Unit\nSadam H. Baloch , Ikramullah Shaikh , Murtaza A. Gowa , Pooja D. Lohano , Mohsina N. Ibrahim\n1. Pediatric Medicine, National Institute of Child Health, Karachi, PAK 2. Pediatric Critical Care, National Institute of\nChild Health, Karachi, PAK 3. Pediatrics and Endocrinology, National Institute of Child Health, Karachi, PAK\nCorresponding author: Sadam H. Baloch, balochsadam126@gmail.com\nAbstract\nObjective: To assess and compare the diagnostic accuracy of the Pediatric Risk of Mortality (PRISM) III score\nand Pediatric Sequential Organ Failure Assessment (p-SOFA) for the prediction of mortality in critically ill\nchildren.\nMethodology: This was a cross-validation study conducted at the Pediatric Intensive Care Unit (PICU) of the\nNational Institute of Child Health Karachi from February 2021 to July 2021. Two hundred eighty-six critically\nill children of age one month to 15 years of either gender staying in PICU for more than 24 hours were\nincluded. Within 24 hours of admission, the p-SOFA and PRISM III 24 scores were calculated for all eligible\nchildren. The outcome of the study was mortality within 30 days of PICU admitted children. Data were\nanalyzed using Statistical Package for the Social Sciences (SPSS) version 23.\nResults: The median age was 24 months (range: 1-144 months). The 30-day mortality was estimated as 57%.\nThe p-SOFA and PRISM scores were significantly greater in children who did not survive than survivors. The\nmaximum p-SOFA score (area under the curve (AUC)=0.81, 95% CI=0.76-0.86, p=0.001) and PRISM III 24\nscore (AUC=0.75, 95% CI=0.69-0.81, p=0.001) had good discrimination for 30-day mortality. For the\nprediction of 30-day mortality at the cut-off value of p-SOFA>2, the sensitivity was 93.87%, specificity was\n38.21%, and accuracy was 69.93%. Whereas at the cut-off value of PRISM III 24 score>8, the sensitivity was\n55.83%, specificity was 77.24%, and accuracy was 65.03%.\nConclusion: The p-SOFA score is a good predictor for 30-day mortality in critically ill children and had\nbetter accuracy than the PRISM III 24 score.\nCategories: Pediatrics, Other\nKeywords: pediatric risk of mortality (prism) iii score, pediatric sequential organ failure assessment (p-sofa),\npediatric intensive care unit, mortality, children\nIntroduction\nThe pediatric intensive care unit (PICU) plays an important role in delivering demanding and required care\nto seriously ill children. In both developing and developed countries, PICU children have a considerably\nhigher risk of morbidity and death [1,2]. Quality and quantities of PICUs are improving in developing\ncountries like Pakistan, but it is an uphill process, as the units need modern, expensive equipment and a\nlarge highly trained staff. So there is a need for time to employ methods, techniques, and scoring systems\nthat are predictive of mortality and morbidity risk in these patients, thus allowing these systems to assist in\ntimely and focused decisions regarding the deployment of different expertise and resources, to produce\nhighly productive results [3,4].\nSeveral prognostic scoring systems like Pediatric Index of Mortality (PIM and PIM2), Pediatric Risk of\nMortality (PRISM, PRISM III), Sequential Organ Failure Assessment (SOFA), Pediatric Sequential Organ\nFailure Assessment Score (p-SOFA), and the Paediatric Logistic Organ Dysfunction (PELOD) score have been\ndeveloped to predict PICU children's morbidity and death, which can be extremely helpful in treatment\nplanning [1,2,5-9]. The PRISM III 24 score is a commonly used system that is used to evaluate various\nscoring systems. PRISM III 24 score helps us in predicting institutional performance [10,11]. Models like the\nPRISM III 24 score provide one of the best ways to organize an intensive care unit. PRISM III 24 score takes\n24 hours to complete and cannot be used in regulating admissions to the PICU but only to assess illness\nseverity and length of stay [3,12]. The p-SOFA has been developed recently and so far only validated\nretrospectively in critically ill children [13,14]. Whereas only a few studies have been conducted for\nvalidation of p-SOFA and PRISM III in developing countries like Pakistan. An ideal scoring system would be\naccurate, easy to use, and simple, as well as minimally intrusive and low-cost. However, no scoring system is\nflawless, and each one has its own set of limitations, which is why studies are being conducted to enhance\n1\n1\n2\n1\n3",
+            "length": 4926,
+            "sentences": 52,
+            "chunks": [
+                {
+                    "chunk_id": 0,
+                    "text": "Review began 11/26/2021 Review ended 01/05/2022 Published 01/09/2022 \u00c2\u00a9 Copyright 2022 Baloch et al. This is an open access article distributed under the terms of the Creative Commons Attribution License CC-BY 4.0., which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. Comparison of Pediatric Sequential Organ Failure Assessment and Pediatric Risk of Mortality III Score as Mortality Prediction in Pediatric Intensive Care Unit Sadam H. Baloch , Ikramullah Shaikh , Murtaza A. Gowa , Pooja D. Lohano , Mohsina N. Ibrahim 1. Pediatric Medicine, National Institute of Child Health, Karachi, PAK 2. Pediatric Critical Care, National Institute of Child Health, Karachi, PAK 3.",
+                    "start_char": 0,
+                    "end_char": 751,
+                    "sentence_start": 0,
+                    "sentence_end": 4
+                },
+                {
+                    "chunk_id": 1,
+                    "text": "Pediatric Critical Care, National Institute of Child Health, Karachi, PAK 3. Pediatrics and Endocrinology, National Institute of Child Health, Karachi, PAK Corresponding author: Sadam H. Baloch, balochsadam126@gmail.com Abstract Objective: To assess and compare the diagnostic accuracy of the Pediatric Risk of Mortality (PRISM) III score and Pediatric Sequential Organ Failure Assessment (p-SOFA) for the prediction of mortality in critically ill children. Methodology: This was a cross-validation study conducted at the Pediatric Intensive Care Unit (PICU) of the National Institute of Child Health Karachi from February 2021 to July 2021. Two hundred eighty-six critically ill children of age one month to 15 years of either gender staying in PICU for more than 24 hours were included. Within 24 hours of admission, the p-SOFA and PRISM III 24 scores were calculated for all eligible children. The outcome of the study was mortality within 30 days of PICU admitted children.",
+                    "start_char": 675,
+                    "end_char": 1652,
+                    "sentence_start": 4,
+                    "sentence_end": 9
+                },
+                {
+                    "chunk_id": 2,
+                    "text": "The outcome of the study was mortality within 30 days of PICU admitted children. Data were analyzed using Statistical Package for the Social Sciences (SPSS) version 23. Results: The median age was 24 months (range: 1-144 months). The 30-day mortality was estimated as 57%. The p-SOFA and PRISM scores were significantly greater in children who did not survive than survivors. The maximum p-SOFA score (area under the curve (AUC)=0.81, 95% CI=0.76-0.86, p=0.001) and PRISM III 24 score (AUC=0.75, 95% CI=0.69-0.81, p=0.001) had good discrimination for 30-day mortality. For the prediction of 30-day mortality at the cut-off value of p-SOFA>2, the sensitivity was 93.87%, specificity was 38.21%, and accuracy was 69.93%. Whereas at the cut-off value of PRISM III 24 score>8, the sensitivity was 55.83%, specificity was 77.24%, and accuracy was 65.03%. Conclusion: The p-SOFA score is a good predictor for 30-day mortality in critically ill children and had better accuracy than the PRISM III 24 score.",
+                    "start_char": 1572,
+                    "end_char": 2571,
+                    "sentence_start": 9,
+                    "sentence_end": 17
+                },
+                {
+                    "chunk_id": 3,
+                    "text": "Conclusion: The p-SOFA score is a good predictor for 30-day mortality in critically ill children and had better accuracy than the PRISM III 24 score. Categories: Pediatrics, Other Keywords: pediatric risk of mortality (prism) iii score, pediatric sequential organ failure assessment (p-sofa), pediatric intensive care unit, mortality, children Introduction The pediatric intensive care unit (PICU) plays an important role in delivering demanding and required care to seriously ill children. In both developing and developed countries, PICU children have a considerably higher risk of morbidity and death [1,2]. Quality and quantities of PICUs are improving in developing countries like Pakistan, but it is an uphill process, as the units need modern, expensive equipment and a large highly trained staff.",
+                    "start_char": 2422,
+                    "end_char": 3226,
+                    "sentence_start": 17,
+                    "sentence_end": 20
+                },
+                {
+                    "chunk_id": 4,
+                    "text": "Quality and quantities of PICUs are improving in developing countries like Pakistan, but it is an uphill process, as the units need modern, expensive equipment and a large highly trained staff. So there is a need for time to employ methods, techniques, and scoring systems that are predictive of mortality and morbidity risk in these patients, thus allowing these systems to assist in timely and focused decisions regarding the deployment of different expertise and resources, to produce highly productive results [3,4]. Several prognostic scoring systems like Pediatric Index of Mortality (PIM and PIM2), Pediatric Risk of Mortality (PRISM, PRISM III), Sequential Organ Failure Assessment (SOFA), Pediatric Sequential Organ Failure Assessment Score (p-SOFA), and the Paediatric Logistic Organ Dysfunction (PELOD) score have been developed to predict PICU children's morbidity and death, which can be extremely helpful in treatment planning [1,2,5-9].",
+                    "start_char": 3033,
+                    "end_char": 3984,
+                    "sentence_start": 20,
+                    "sentence_end": 22
+                },
+                {
+                    "chunk_id": 5,
+                    "text": "Several prognostic scoring systems like Pediatric Index of Mortality (PIM and PIM2), Pediatric Risk of Mortality (PRISM, PRISM III), Sequential Organ Failure Assessment (SOFA), Pediatric Sequential Organ Failure Assessment Score (p-SOFA), and the Paediatric Logistic Organ Dysfunction (PELOD) score have been developed to predict PICU children's morbidity and death, which can be extremely helpful in treatment planning [1,2,5-9]. The PRISM III 24 score is a commonly used system that is used to evaluate various scoring systems. PRISM III 24 score helps us in predicting institutional performance [10,11]. Models like the PRISM III 24 score provide one of the best ways to organize an intensive care unit. PRISM III 24 score takes 24 hours to complete and cannot be used in regulating admissions to the PICU but only to assess illness severity and length of stay [3,12]. The p-SOFA has been developed recently and so far only validated retrospectively in critically ill children [13,14].",
+                    "start_char": 3554,
+                    "end_char": 4542,
+                    "sentence_start": 22,
+                    "sentence_end": 27
+                },
+                {
+                    "chunk_id": 6,
+                    "text": "The p-SOFA has been developed recently and so far only validated retrospectively in critically ill children [13,14]. Whereas only a few studies have been conducted for validation of p-SOFA and PRISM III in developing countries like Pakistan. An ideal scoring system would be accurate, easy to use, and simple, as well as minimally intrusive and low-cost. However, no scoring system is flawless, and each one has its own set of limitations, which is why studies are being conducted to enhance 1 1 2 1 3",
+                    "start_char": 4426,
+                    "end_char": 4927,
+                    "sentence_start": 27,
+                    "sentence_end": 30
+                }
+            ]
+        },
+        {
+            "block_id": 1,
+            "chunk_id": 1,
+            "page_number": 1,
+            "type": "text",
+            "role": "paragraph",
+            "content": "Open Access Original\nArticle\nDOI: 10.7759/cureus.21055\nHow to cite this article\nBaloch S H, Shaikh I, Gowa M A, et al. (January 09, 2022) Comparison of Pediatric Sequential Organ Failure Assessment and Pediatric Risk of\nMortality III Score as Mortality Prediction in Pediatric Intensive Care Unit. Cureus 14(1): e21055. DOI 10.7759/cureus.21055",
+            "length": 344,
+            "sentences": 7,
+            "chunks": [
+                {
+                    "chunk_id": 0,
+                    "text": "Open Access Original Article DOI: 10.7759/cureus.21055 How to cite this article Baloch S H, Shaikh I, Gowa M A, et al. (January 09, 2022) Comparison of Pediatric Sequential Organ Failure Assessment and Pediatric Risk of Mortality III Score as Mortality Prediction in Pediatric Intensive Care Unit. Cureus 14(1): e21055. DOI 10.7759/cureus.21055",
+                    "start_char": 0,
+                    "end_char": 344,
+                    "sentence_start": 0,
+                    "sentence_end": 3
+                }
+            ]
+        },
+        {
+            "block_id": 2,
+            "chunk_id": 0,
+            "page_number": 2,
+            "type": "text",
+            "role": "paragraph",
+            "content": "accuracy, verify existing ones, and develop new ones [15,16]. Therefore, the aim of our study was to assess\nand compare the diagnostic accuracy of the PRISM III and the p-SOFA for the prediction of mortality in\ncritically ill children.\nMaterials And Methods\nFrom February to July 2021, cross-validation research was done in the PICU of the National Institute of Child\nHealth (NICH) in Karachi. This study was carried out with the approval of NICH Karachi's Institutional\nEthical Review Board, approval number 42/2020, and with the signed informed consent of the children's\nparents. The sample size was calculated using the diagnostic accuracy sample size calculator by Dr. Lin\nNaing, with PRISM sensitivity of 70.6%, specificity of 82.3%, a margin of error of 5.2%, 30-day mortality\nprevalence of 28.1%, and a confidence level of 95%. The sample size was calculated to be 286 [2]. A non-\nprobability consecutive sampling approach was used to include critically ill children aged one month to 15\nyears of either gender who had been in the PICU for more than 24 hours. Patients with an underlying\ncongenital deformity who were hospitalized for routine treatment before planned procedures such as\nintravenous immunoglobulin (IVIG) and hemodialysis, cardiopulmonary resuscitation (CPR) before\nadmission, and children who died within 12 hours of admission were excluded from the research. Within 24\nhours of admission, the p-SOFA score was calculated for all eligible children. p-SOFA score of higher than 2\nis considered as a predictor of mortality. We calculated PRISM III score within 24 hours after admission, in\naddition to p-SOFA. A score of higher than 8 on the PRISM III 24 was deemed a predictor of mortality. On a\npre-designed proforma, demographic data such as age, weight, type of admission (clinical or medical cases\nand surgical (post-surgical recovery cases)), length of stay in PICU, need for ventilator support, and\ninotropic support was also noted by the researcher himself. All of the children were followed up from\nadmission till discharged from the PICU. Mortality within 30 days was the outcome of the study.\nAfter collecting data the analyses were conducted by using Statistical Package for Social Sciences (SPSS)\nversion 23 (IBM Corp., Armonk, NY, USA). We presented our numeric data with median and range as they\nwere non-normally distributed. We presented our categorical variables with frequencies and percentages.\nWe compared numeric data with the Mann-Whitney U test and categorical data with the chi-square test to\nassess the association with mortality. PRISM III 24 and p-SOFA scores were categorized according to the\n25th, 50th, and 75th percentiles of these scores. Comparison between categories of PRISM III 24 score and\np-SOFA with 30-day mortality were done using Pearson\u00e2\u20ac\u2122s chi-square test. Two by two tables were used to\ncalculate the specificity (Sp), sensitivity (Sn), negative predictive value (NPV), positive predictive value\n(PPV), and accuracy of PRISM III 24 and p-SOFA scores by taking 30-day mortality as the gold standard.\nSpearmen\u00e2\u20ac\u2122s correlation was applied to assess the relationship between the duration of PICU stay and both\nscores (PRISM III 24 score and p-SOFA score). A p-value of \u00e2\u2030\u00a40.05 was taken as statistically significant.\nResults\nWe included 286 children in the study. The median age was 24 months (range: 1-144 months). The 30-day\nmortality was estimated as 57%. The median age of 163 non-survivors was 24 months (range: 2-144\nmonths). Table 1 displays the other information of non-survivors and survivors.\n2022 Baloch et al. Cureus 14(1): e21055. DOI 10.7759/cureus.21055\n2 of 8",
+            "length": 3633,
+            "sentences": 40,
+            "chunks": [
+                {
+                    "chunk_id": 0,
+                    "text": "accuracy, verify existing ones, and develop new ones [15,16]. Therefore, the aim of our study was to assess and compare the diagnostic accuracy of the PRISM III and the p-SOFA for the prediction of mortality in critically ill children. Materials And Methods From February to July 2021, cross-validation research was done in the PICU of the National Institute of Child Health (NICH) in Karachi. This study was carried out with the approval of NICH Karachi's Institutional Ethical Review Board, approval number 42/2020, and with the signed informed consent of the children's parents. The sample size was calculated using the diagnostic accuracy sample size calculator by Dr. Lin Naing, with PRISM sensitivity of 70.6%, specificity of 82.3%, a margin of error of 5.2%, 30-day mortality prevalence of 28.1%, and a confidence level of 95%. The sample size was calculated to be 286 [2].",
+                    "start_char": 0,
+                    "end_char": 880,
+                    "sentence_start": 0,
+                    "sentence_end": 5
+                },
+                {
+                    "chunk_id": 1,
+                    "text": "The sample size was calculated to be 286 [2]. A non- probability consecutive sampling approach was used to include critically ill children aged one month to 15 years of either gender who had been in the PICU for more than 24 hours. Patients with an underlying congenital deformity who were hospitalized for routine treatment before planned procedures such as intravenous immunoglobulin (IVIG) and hemodialysis, cardiopulmonary resuscitation (CPR) before admission, and children who died within 12 hours of admission were excluded from the research. Within 24 hours of admission, the p-SOFA score was calculated for all eligible children. p-SOFA score of higher than 2 is considered as a predictor of mortality. We calculated PRISM III score within 24 hours after admission, in addition to p-SOFA. A score of higher than 8 on the PRISM III 24 was deemed a predictor of mortality.",
+                    "start_char": 835,
+                    "end_char": 1713,
+                    "sentence_start": 5,
+                    "sentence_end": 11
+                },
+                {
+                    "chunk_id": 2,
+                    "text": "A score of higher than 8 on the PRISM III 24 was deemed a predictor of mortality. On a pre-designed proforma, demographic data such as age, weight, type of admission (clinical or medical cases and surgical (post-surgical recovery cases)), length of stay in PICU, need for ventilator support, and inotropic support was also noted by the researcher himself. All of the children were followed up from admission till discharged from the PICU. Mortality within 30 days was the outcome of the study. After collecting data the analyses were conducted by using Statistical Package for Social Sciences (SPSS) version 23 (IBM Corp., Armonk, NY, USA). We presented our numeric data with median and range as they were non-normally distributed. We presented our categorical variables with frequencies and percentages. We compared numeric data with the Mann-Whitney U test and categorical data with the chi-square test to assess the association with mortality.",
+                    "start_char": 1632,
+                    "end_char": 2578,
+                    "sentence_start": 11,
+                    "sentence_end": 18
+                },
+                {
+                    "chunk_id": 3,
+                    "text": "We compared numeric data with the Mann-Whitney U test and categorical data with the chi-square test to assess the association with mortality. PRISM III 24 and p-SOFA scores were categorized according to the 25th, 50th, and 75th percentiles of these scores. Comparison between categories of PRISM III 24 score and p-SOFA with 30-day mortality were done using Pearson\u00e2\u20ac\u2122s chi-square test. Two by two tables were used to calculate the specificity (Sp), sensitivity (Sn), negative predictive value (NPV), positive predictive value (PPV), and accuracy of PRISM III 24 and p-SOFA scores by taking 30-day mortality as the gold standard. Spearmen\u00e2\u20ac\u2122s correlation was applied to assess the relationship between the duration of PICU stay and both scores (PRISM III 24 score and p-SOFA score). A p-value of \u00e2\u2030\u00a40.05 was taken as statistically significant. Results We included 286 children in the study. The median age was 24 months (range: 1-144 months). The 30-day mortality was estimated as 57%.",
+                    "start_char": 2437,
+                    "end_char": 3422,
+                    "sentence_start": 18,
+                    "sentence_end": 26
+                },
+                {
+                    "chunk_id": 4,
+                    "text": "The 30-day mortality was estimated as 57%. The median age of 163 non-survivors was 24 months (range: 2-144 months). Table 1 displays the other information of non-survivors and survivors. 2022 Baloch et al. Cureus 14(1): e21055. DOI 10.7759/cureus.21055 2 of 8",
+                    "start_char": 3380,
+                    "end_char": 3639,
+                    "sentence_start": 26,
+                    "sentence_end": 31
+                }
+            ]
+        },
+        {
+            "block_id": 3,
+            "chunk_id": 0,
+            "page_number": 3,
+            "type": "text",
+            "role": "paragraph",
+            "content": "Mortality\nTotal\np-value\n\nYes (n=163)\nNo (n=123)\n\nAge (months)\n24 (2-144)\n21 (1-144)\n24 (1-144)\n0.902\n\nWeight (kg)\n10 (2.2-40)\n10 (2.7-47)\n10 (2.2-47)\n0.578\n\nType of admission\n\nClinical\n155 (95.1)\n108 (87.8)\n263 (92)\n0.025*\n\nSurgical\n8 (4.9)\n15 (12.2)\n23 (8)\n\nVentilator requirement\n\nYes\n163 (100)\n79 (64.2)\n242 (84.6)\n0.001*\n\nNo\n0\n44 (35.8)\n44 (15.4)\n\nInotrope Need\n\nYes\n140 (85.9)\n27 (22)\n167 (58.4)\n0.001*\n\nNo\n23 (14.1)\n96 (78)\n119 (41.6)\n\np-SOFA score\n8 (1-20)\n4 (0-14)\n6.50 (0-20)\n0.001*\n\nPRISM III 24 score\n10 (0-29)\n3 (0-20)\n7 (0-29)\n0.001*\n\nDuration of PICU stay (days)\n5 (1-40)\n5 (1-39)\n5 (1-40)\n0.679\n\nData expressed as median (range: minimum-maximum), or n (%). *Statistically significant\nTABLE 1: Baseline information of study sample (n=286)\nPRISM: Pediatric Risk of Mortality; p-SOFA: Pediatric Sequential Organ Failure Assessment; PICU: Pediatric Intensive Care Unit\nWe found that children who did not survive had a significantly higher p-SOFA score than survivors (8 [range:\n1-20] vs 4 [range: 0-14]; p=0.0001; Table 1). We next divided the children into three groups based on the p-\nSOFA score's 25th, 50th, and 75th percentiles, and found that the frequency of death increased substantially\nwith the p-SOFA score (p=0.001) (Figure 1).\n2022 Baloch et al. Cureus 14(1): e21055. DOI 10.7759/cureus.21055\n3 of 8",
+            "length": 1323,
+            "sentences": 33,
+            "chunks": [
+                {
+                    "chunk_id": 0,
+                    "text": "Mortality Total p-value Yes (n=163) No (n=123) Age (months) 24 (2-144) 21 (1-144) 24 (1-144) 0.902 Weight (kg) 10 (2.2-40) 10 (2.7-47) 10 (2.2-47) 0.578 Type of admission Clinical 155 (95.1) 108 (87.8) 263 (92) 0.025* Surgical 8 (4.9) 15 (12.2) 23 (8) Ventilator requirement Yes 163 (100) 79 (64.2) 242 (84.6) 0.001* No 0 44 (35.8) 44 (15.4) Inotrope Need Yes 140 (85.9) 27 (22) 167 (58.4) 0.001* No 23 (14.1) 96 (78) 119 (41.6) p-SOFA score 8 (1-20) 4 (0-14) 6.50 (0-20) 0.001* PRISM III 24 score 10 (0-29) 3 (0-20) 7 (0-29) 0.001* Duration of PICU stay (days) 5 (1-40) 5 (1-39) 5 (1-40) 0.679 Data expressed as median (range: minimum-maximum), or n (%).",
+                    "start_char": 0,
+                    "end_char": 655,
+                    "sentence_start": 0,
+                    "sentence_end": 0
+                },
+                {
+                    "chunk_id": 1,
+                    "text": "Mortality Total p-value Yes (n=163) No (n=123) Age (months) 24 (2-144) 21 (1-144) 24 (1-144) 0.902 Weight (kg) 10 (2.2-40) 10 (2.7-47) 10 (2.2-47) 0.578 Type of admission Clinical 155 (95.1) 108 (87.8) 263 (92) 0.025* Surgical 8 (4.9) 15 (12.2) 23 (8) Ventilator requirement Yes 163 (100) 79 (64.2) 242 (84.6) 0.001* No 0 44 (35.8) 44 (15.4) Inotrope Need Yes 140 (85.9) 27 (22) 167 (58.4) 0.001* No 23 (14.1) 96 (78) 119 (41.6) p-SOFA score 8 (1-20) 4 (0-14) 6.50 (0-20) 0.001* PRISM III 24 score 10 (0-29) 3 (0-20) 7 (0-29) 0.001* Duration of PICU stay (days) 5 (1-40) 5 (1-39) 5 (1-40) 0.679 Data expressed as median (range: minimum-maximum), or n (%). *Statistically significant TABLE 1: Baseline information of study sample (n=286) PRISM: Pediatric Risk of Mortality; p-SOFA: Pediatric Sequential Organ Failure Assessment; PICU: Pediatric Intensive Care Unit We found that children who did not survive had a significantly higher p-SOFA score than survivors (8 [range: 1-20] vs 4 [range: 0-14]; p=0.0001; Table 1).",
+                    "start_char": 0,
+                    "end_char": 1018,
+                    "sentence_start": 0,
+                    "sentence_end": 1
+                },
+                {
+                    "chunk_id": 2,
+                    "text": "*Statistically significant TABLE 1: Baseline information of study sample (n=286) PRISM: Pediatric Risk of Mortality; p-SOFA: Pediatric Sequential Organ Failure Assessment; PICU: Pediatric Intensive Care Unit We found that children who did not survive had a significantly higher p-SOFA score than survivors (8 [range: 1-20] vs 4 [range: 0-14]; p=0.0001; Table 1). We next divided the children into three groups based on the p- SOFA score's 25th, 50th, and 75th percentiles, and found that the frequency of death increased substantially with the p-SOFA score (p=0.001) (Figure 1). 2022 Baloch et al. Cureus 14(1): e21055. DOI 10.7759/cureus.21055 3 of 8",
+                    "start_char": 656,
+                    "end_char": 1307,
+                    "sentence_start": 1,
+                    "sentence_end": 5
+                }
+            ]
+        },
+        {
+            "block_id": 4,
+            "chunk_id": 0,
+            "page_number": 4,
+            "type": "text",
+            "role": "paragraph",
+            "content": "FIGURE 1: Frequency distribution of 30-day mortality among the\ndifferent categories of p-SOFA: The x-axis displays p-SOFA sub-\ncategories. Children were categorized based on cut off values\ncorresponding to the 25th, 50th and 75th percentiles in the distribution\nof p-SOFA scores. The y-axis displays frequency of children that died in\nsubcategory relative to total number of mortalities.\np-SOFA: Pediatric Sequential Organ Failure Assessment\nWe found that PRISM III 24 score was significantly greater in children who did not survive than survivors (10\n[range: 0-29] vs 3 [range: 0-20]; p=0.0001; Table 1). We further grouped children based on the 25th, 50th, and\n75th percentiles of the PRISM III 24 score, we observed that frequency of mortality increased significantly\nwith the PRISM III 24 score (p=0.001) (Figure 2).\nFIGURE 2: Frequency of distribution of 30-day mortality among different\ncategories of PRISM III 24: The x-axis displays PRSIM III 24 score\nsubcategories. Children were categorized based on cut off values\ncorresponding to the 25th, 50th and 75th percentiles in the distribution\nof PRISM III 24 scores. The y-axis displays the frequency of children\nthat died in sub-categories relative to total number of mortalities.\nPRISM: Pediatric Risk of Mortality\nWith an area under the curve (AUC) of 0.81 (0.76-0.86) and a p-value of 0.0001, the maximal p-SOFA\nexhibited good discrimination for 30-day mortality. The maximum PRISM III 24 had good discrimination for\n30-day mortality, with the AUC of 0.75 (0.69-0.81) with a p-value=0.0001 (Figure 3).\n2022 Baloch et al. Cureus 14(1): e21055. DOI 10.7759/cureus.21055\n4 of 8",
+            "length": 1633,
+            "sentences": 24,
+            "chunks": [
+                {
+                    "chunk_id": 0,
+                    "text": "FIGURE 1: Frequency distribution of 30-day mortality among the different categories of p-SOFA: The x-axis displays p-SOFA sub- categories. Children were categorized based on cut off values corresponding to the 25th, 50th and 75th percentiles in the distribution of p-SOFA scores. The y-axis displays frequency of children that died in subcategory relative to total number of mortalities. p-SOFA: Pediatric Sequential Organ Failure Assessment We found that PRISM III 24 score was significantly greater in children who did not survive than survivors (10 [range: 0-29] vs 3 [range: 0-20]; p=0.0001; Table 1). We further grouped children based on the 25th, 50th, and 75th percentiles of the PRISM III 24 score, we observed that frequency of mortality increased significantly with the PRISM III 24 score (p=0.001) (Figure 2). FIGURE 2: Frequency of distribution of 30-day mortality among different categories of PRISM III 24: The x-axis displays PRSIM III 24 score subcategories.",
+                    "start_char": 0,
+                    "end_char": 974,
+                    "sentence_start": 0,
+                    "sentence_end": 5
+                },
+                {
+                    "chunk_id": 1,
+                    "text": "FIGURE 2: Frequency of distribution of 30-day mortality among different categories of PRISM III 24: The x-axis displays PRSIM III 24 score subcategories. Children were categorized based on cut off values corresponding to the 25th, 50th and 75th percentiles in the distribution of PRISM III 24 scores. The y-axis displays the frequency of children that died in sub-categories relative to total number of mortalities. PRISM: Pediatric Risk of Mortality With an area under the curve (AUC) of 0.81 (0.76-0.86) and a p-value of 0.0001, the maximal p-SOFA exhibited good discrimination for 30-day mortality. The maximum PRISM III 24 had good discrimination for 30-day mortality, with the AUC of 0.75 (0.69-0.81) with a p-value=0.0001 (Figure 3). 2022 Baloch et al. Cureus 14(1): e21055. DOI 10.7759/cureus.21055 4 of 8",
+                    "start_char": 821,
+                    "end_char": 1633,
+                    "sentence_start": 5,
+                    "sentence_end": 12
+                }
+            ]
+        },
+        {
+            "block_id": 5,
+            "chunk_id": 0,
+            "page_number": 5,
+            "type": "text",
+            "role": "paragraph",
+            "content": "FIGURE 3: ROC curves analysis for relation of 30-day mortality using p-\nSOFA and PRISM III 24 scores in critically ill patients.\nPRISM: Pediatric Risk of Mortality; p-SOFA: Pediatric Sequential Organ Failure Assessment; ROC: receiver\noperating characteristic\nFor the prediction of 30-day mortality at the cut-off value of p-SOFA>2, the sensitivity was 93.87%,\nspecificity was 38.21%, PPV was 66.81%, NPV was 82.46% and accuracy was 69.93%. Whereas at the cut-off\nvalue of PRISM III 24 score>8, the sensitivity was 55.83%, specificity was 77.24%, PPV was 76.47%, NPV was\n56.89% and accuracy was 65.03% (Table 2).\n\nPRISM III 24 score\np-SOFA score\nDuration of PICU stay\nPRISM III 24 score\n1\n0.712 (0.001*)\n0.063 (0.290)\np-SOFA score\n0.712 (0.001*)\n1\n0.054 (0.366)\nDuration of PICU stay\n0.063 (0.290)\n0.054 (0.366)\n1\nData expressed as Spearmen's rho (p-value)\n*Statistically significant\nTABLE 2: Correlation analysis between PRISM III 24 score and p-SOFA score and duration of\nPICU stay (n=286)\nPRISM: Pediatric Risk of Mortality; p-SOFA: Pediatric Sequential Organ Failure Assessment; PICU: Pediatric Intensive Care Unit\nWe observed that the p-SOFA score was positively associated with the PRISM III 24 score (r=0.712, p=0.001).\nNo statistically significant correlation was found between PRISM III 24 score and duration of stay as well as\nbetween p-SOFA score and duration of hospital stay (Table 3).\n2022 Baloch et al. Cureus 14(1): e21055. DOI 10.7759/cureus.21055\n5 of 8",
+            "length": 1470,
+            "sentences": 33,
+            "chunks": [
+                {
+                    "chunk_id": 0,
+                    "text": "FIGURE 3: ROC curves analysis for relation of 30-day mortality using p- SOFA and PRISM III 24 scores in critically ill patients. PRISM: Pediatric Risk of Mortality; p-SOFA: Pediatric Sequential Organ Failure Assessment; ROC: receiver operating characteristic For the prediction of 30-day mortality at the cut-off value of p-SOFA>2, the sensitivity was 93.87%, specificity was 38.21%, PPV was 66.81%, NPV was 82.46% and accuracy was 69.93%. Whereas at the cut-off value of PRISM III 24 score>8, the sensitivity was 55.83%, specificity was 77.24%, PPV was 76.47%, NPV was 56.89% and accuracy was 65.03% (Table 2).",
+                    "start_char": 0,
+                    "end_char": 611,
+                    "sentence_start": 0,
+                    "sentence_end": 2
+                },
+                {
+                    "chunk_id": 1,
+                    "text": "Whereas at the cut-off value of PRISM III 24 score>8, the sensitivity was 55.83%, specificity was 77.24%, PPV was 76.47%, NPV was 56.89% and accuracy was 65.03% (Table 2). PRISM III 24 score p-SOFA score Duration of PICU stay PRISM III 24 score 1 0.712 (0.001*) 0.063 (0.290) p-SOFA score 0.712 (0.001*) 1 0.054 (0.366) Duration of PICU stay 0.063 (0.290) 0.054 (0.366) 1 Data expressed as Spearmen's rho (p-value) *Statistically significant TABLE 2: Correlation analysis between PRISM III 24 score and p-SOFA score and duration of PICU stay (n=286) PRISM: Pediatric Risk of Mortality; p-SOFA: Pediatric Sequential Organ Failure Assessment; PICU: Pediatric Intensive Care Unit We observed that the p-SOFA score was positively associated with the PRISM III 24 score (r=0.712, p=0.001). No statistically significant correlation was found between PRISM III 24 score and duration of stay as well as between p-SOFA score and duration of hospital stay (Table 3). 2022 Baloch et al. Cureus 14(1): e21055.",
+                    "start_char": 440,
+                    "end_char": 1437,
+                    "sentence_start": 2,
+                    "sentence_end": 6
+                },
+                {
+                    "chunk_id": 2,
+                    "text": "Cureus 14(1): e21055. DOI 10.7759/cureus.21055 5 of 8",
+                    "start_char": 1416,
+                    "end_char": 1469,
+                    "sentence_start": 6,
+                    "sentence_end": 7
+                }
+            ]
+        },
+        {
+            "block_id": 6,
+            "chunk_id": 0,
+            "page_number": 6,
+            "type": "text",
+            "role": "paragraph",
+            "content": "30-day mortality\nStatistics\nYes\nNo\np-SOFA score\n\nChi-square test=45.19 (p=0.001), Sensitivity=93.87%, Specificity=38.21%, PPV=66.81%,\nNPV=82.46%, Accuracy=69.93%\n> 2\n153\n(93.9%)\n76\n(61.8%)\n\u00e2\u2030\u00a4 2\n10\n(6.1%)\n47\n(38.2%)\nPRISM III 24\nscore",
+            "length": 232,
+            "sentences": 11,
+            "chunks": [
+                {
+                    "chunk_id": 0,
+                    "text": "30-day mortality Statistics Yes No p-SOFA score Chi-square test=45.19 (p=0.001), Sensitivity=93.87%, Specificity=38.21%, PPV=66.81%, NPV=82.46%, Accuracy=69.93% > 2 153 (93.9%) 76 (61.8%) \u00e2\u2030\u00a4 2 10 (6.1%) 47 (38.2%) PRISM III 24 score",
+                    "start_char": 0,
+                    "end_char": 233,
+                    "sentence_start": 0,
+                    "sentence_end": 0
+                }
+            ]
+        },
+        {
+            "block_id": 7,
+            "chunk_id": 1,
+            "page_number": 6,
+            "type": "text",
+            "role": "paragraph",
+            "content": "> 8\n91\n(55.8%)\n28\n(22.8%)\nChi-square test=31.54 (p=0.001), Sensitivity=55.83%, Specificity=77.24%, PPV=76.47%,\nNPV=56.89%, Accuracy=65.03%\n\u00e2\u2030\u00a4 8\n72\n(44.2%)\n95\n(77.2%)\nTABLE 3: Diagnostic accuracy of p-SOFA and PRISM III 24 score by taking 30-day mortality\n(n=286)\nPRISM: Pediatric Risk of Mortality; p-SOFA: Pediatric Sequential Organ Failure Assessment; PPV: positive predictive value; NPV: negative predictive\nvalue\nDiscussion\nIn the PICU, scoring systems help healthcare managers determine a patient's prognosis and improve the\ndecision-making process as well as the patient's outcome [9,17]. In a country like Pakistan, where tertiary\ncare institutions are few, the outcome of PICU estimates the most effective use of limited resources and\nhelps guide policy formation [3]. The use of scoring systems to predict PICU outcomes can also aid in prompt\nintervention [18]. However, developing the optimal scoring method for critically ill children admitted to the\nPICU remains a challenging task [19]. Different methods are used in PICUs for the prediction of severity of\ndisease and risk of mortality, including Pediatric Index of Mortality (PIM and PIM2), Pediatric Risk of\nMortality (PRISM, PRISM III), Sequential Organ Failure Assessment (SOFA), Pediatric Sequential Organ\nFailure Assessment Score (p-SOFA), and the Paediatric Logistic Organ Dysfunction (PELOD) score [1,2,5-9].\nAlthough these scoring systems are effective in ICUs all over the world, it is important to evaluate them\nbefore using them in healthcare settings that are very different from where they were established [3,20,21].\nUntil now, the validation of the p-SOFA and PRISM III 24 scoring systems in Pakistani PICUs has not been\nextensively examined. Therefore, in this study, we evaluated the validity of the PRISM III 24 score and the p-\nSOFA score for predicting 30-day death in 286 critically ill children admitted to the PICU at a tertiary care\nhospital in Karachi. The 30-day death rate was predicted to be 57% in the current study, with the median age\nof non-survivors being 24 months. The higher number of clinical cases (92%) admitted to PICU might be the\nreason for the higher mortality rate. Similarly, in a Pakistani study, Quershi et al. [4] discovered that the\nmedian age of PICU children was 18 months and that the death rate was 28.7%, which was also higher than\nmortality rates documented by other validation studies. In addition, they also had a larger percentage of\nnon-surgical patients (86%) in their research. Similarly, in an Indian study of 75 PICU children, Kumbar et\nal. discovered that 37.3% of the children died. They also discovered that older children (aged >15 years) had a\ngreater death rate, whereas younger children had a higher survival rate. They did not, however, find a\nstatistically significant association between age and death (p=0.513) [18].\nIn the current study, p-SOFA and PRISM III 24 scores at the time of admission to the PICU were found to be\ngood predictors of death within 30 days. The probability of mortality increased in a stepwise way from\nsmaller to larger p-SOFA and PRISM III 24 scores across patient sub-categories, with survivors having a\nsignificantly lower median p-SOFA and PRISM III 24 scores than non-survivors. Furthermore, the AUC value\nof 0.81 for the prediction of 30-day mortality was good for the p-SOFA score. This finding is comparable to\nthat of El-Mashad et al., who reported a good AUC of 0.89 for the prediction of 30-day death in PICU\nchildren using the p-SOFA score [2]. Similarly, Matics et al. discovered a good AUC of 0.88 for the prediction\nof 30-day death in PICU infants using SOFA score in their investigation [14]. The PRISM III 24 score, on the\nother hand, had a lower AUC value of 0.75 for predicting 30-day mortality than the p-SOFA AUC value in the\ncurrent investigation, according to ROC curve analysis [14]. Similarly, El-Mashad et al. also found that the\nSOFA score had a higher AUC than the PRISM score for the prediction of 30-day mortality (0.89 vs 0.84) in\nPICU children [2]. Another study by Zhou et al. also found that p-SOFA had higher predictive accuracy for the\nprognosis of PICU children with severe illness than PRISM III [22]. Lalitha et al. also found that p-SOFA had\ngood accuracy (AUC=0.84) as compared to PRISM III (AUC=0.70) for the prediction of mortality [23]. In this\n2022 Baloch et al. Cureus 14(1): e21055. DOI 10.7759/cureus.21055\n6 of 8",
+            "length": 4424,
+            "sentences": 57,
+            "chunks": [
+                {
+                    "chunk_id": 0,
+                    "text": "> 8 91 (55.8%) 28 (22.8%) Chi-square test=31.54 (p=0.001), Sensitivity=55.83%, Specificity=77.24%, PPV=76.47%, NPV=56.89%, Accuracy=65.03% \u00e2\u2030\u00a4 8 72 (44.2%) 95 (77.2%) TABLE 3: Diagnostic accuracy of p-SOFA and PRISM III 24 score by taking 30-day mortality (n=286) PRISM: Pediatric Risk of Mortality; p-SOFA: Pediatric Sequential Organ Failure Assessment; PPV: positive predictive value; NPV: negative predictive value Discussion In the PICU, scoring systems help healthcare managers determine a patient's prognosis and improve the decision-making process as well as the patient's outcome [9,17]. In a country like Pakistan, where tertiary care institutions are few, the outcome of PICU estimates the most effective use of limited resources and helps guide policy formation [3]. The use of scoring systems to predict PICU outcomes can also aid in prompt intervention [18]. However, developing the optimal scoring method for critically ill children admitted to the PICU remains a challenging task [19].",
+                    "start_char": 0,
+                    "end_char": 1000,
+                    "sentence_start": 0,
+                    "sentence_end": 3
+                },
+                {
+                    "chunk_id": 1,
+                    "text": "However, developing the optimal scoring method for critically ill children admitted to the PICU remains a challenging task [19]. Different methods are used in PICUs for the prediction of severity of disease and risk of mortality, including Pediatric Index of Mortality (PIM and PIM2), Pediatric Risk of Mortality (PRISM, PRISM III), Sequential Organ Failure Assessment (SOFA), Pediatric Sequential Organ Failure Assessment Score (p-SOFA), and the Paediatric Logistic Organ Dysfunction (PELOD) score [1,2,5-9]. Although these scoring systems are effective in ICUs all over the world, it is important to evaluate them before using them in healthcare settings that are very different from where they were established [3,20,21]. Until now, the validation of the p-SOFA and PRISM III 24 scoring systems in Pakistani PICUs has not been extensively examined.",
+                    "start_char": 872,
+                    "end_char": 1723,
+                    "sentence_start": 3,
+                    "sentence_end": 6
+                },
+                {
+                    "chunk_id": 2,
+                    "text": "Until now, the validation of the p-SOFA and PRISM III 24 scoring systems in Pakistani PICUs has not been extensively examined. Therefore, in this study, we evaluated the validity of the PRISM III 24 score and the p- SOFA score for predicting 30-day death in 286 critically ill children admitted to the PICU at a tertiary care hospital in Karachi. The 30-day death rate was predicted to be 57% in the current study, with the median age of non-survivors being 24 months. The higher number of clinical cases (92%) admitted to PICU might be the reason for the higher mortality rate. Similarly, in a Pakistani study, Quershi et al. [4] discovered that the median age of PICU children was 18 months and that the death rate was 28.7%, which was also higher than mortality rates documented by other validation studies. In addition, they also had a larger percentage of non-surgical patients (86%) in their research. Similarly, in an Indian study of 75 PICU children, Kumbar et al.",
+                    "start_char": 1597,
+                    "end_char": 2569,
+                    "sentence_start": 6,
+                    "sentence_end": 13
+                },
+                {
+                    "chunk_id": 3,
+                    "text": "Similarly, in an Indian study of 75 PICU children, Kumbar et al. discovered that 37.3% of the children died. They also discovered that older children (aged >15 years) had a greater death rate, whereas younger children had a higher survival rate. They did not, however, find a statistically significant association between age and death (p=0.513) [18]. In the current study, p-SOFA and PRISM III 24 scores at the time of admission to the PICU were found to be good predictors of death within 30 days. The probability of mortality increased in a stepwise way from smaller to larger p-SOFA and PRISM III 24 scores across patient sub-categories, with survivors having a significantly lower median p-SOFA and PRISM III 24 scores than non-survivors. Furthermore, the AUC value of 0.81 for the prediction of 30-day mortality was good for the p-SOFA score.",
+                    "start_char": 2505,
+                    "end_char": 3353,
+                    "sentence_start": 13,
+                    "sentence_end": 19
+                },
+                {
+                    "chunk_id": 4,
+                    "text": "Furthermore, the AUC value of 0.81 for the prediction of 30-day mortality was good for the p-SOFA score. This finding is comparable to that of El-Mashad et al., who reported a good AUC of 0.89 for the prediction of 30-day death in PICU children using the p-SOFA score [2]. Similarly, Matics et al. discovered a good AUC of 0.88 for the prediction of 30-day death in PICU infants using SOFA score in their investigation [14]. The PRISM III 24 score, on the other hand, had a lower AUC value of 0.75 for predicting 30-day mortality than the p-SOFA AUC value in the current investigation, according to ROC curve analysis [14]. Similarly, El-Mashad et al. also found that the SOFA score had a higher AUC than the PRISM score for the prediction of 30-day mortality (0.89 vs 0.84) in PICU children [2]. Another study by Zhou et al. also found that p-SOFA had higher predictive accuracy for the prognosis of PICU children with severe illness than PRISM III [22]. Lalitha et al.",
+                    "start_char": 3249,
+                    "end_char": 4219,
+                    "sentence_start": 19,
+                    "sentence_end": 28
+                },
+                {
+                    "chunk_id": 5,
+                    "text": "Lalitha et al. also found that p-SOFA had good accuracy (AUC=0.84) as compared to PRISM III (AUC=0.70) for the prediction of mortality [23]. In this 2022 Baloch et al. Cureus 14(1): e21055. DOI 10.7759/cureus.21055 6 of 8",
+                    "start_char": 4205,
+                    "end_char": 4426,
+                    "sentence_start": 28,
+                    "sentence_end": 32
+                }
+            ]
+        },
+        {
+            "block_id": 8,
+            "chunk_id": 0,
+            "page_number": 7,
+            "type": "text",
+            "role": "paragraph",
+            "content": "study, we used >8 and >2 as the optimum PRISM III 24 and p-SOFA cut-off values for the prediction of 30-\nday mortality. We found that p-SOFA (>2) had a greater sensitivity than PRISM III 24 (>8) (94% vs. 56%),\nwhile p-SOFA (>2) had a lower specificity than PRISM III 24 (>8) (38.2% vs 77.2%). Furthermore, p-SOFA (>2)\nhad somewhat better accuracy than PRISM III 24 (>8) (70% vs 65%). El-Mashad et al. also discovered that the\nSOFA is more accurate than the PRISM score in predicting death in PICU children. They discovered that a\nSOFA score of more than 2 predicted death in 40% of PICU patients with 100% sensitivity and 5.2%\nspecificity. At higher cut-off values of scoring systems for the prediction of 30-day mortality, they found p-\nSOFA score (cut-off >6.5) had sensitivity as 80.9% and specificity as 81.8%, whereas PRISM score (cut-off\n>17.2) had sensitivity as 70.6% and specificity as 82.3% [2]. We also found a positive correlation between the\np-SOFA and PRISM III 24 score in PICU admitted children (r=0.712). El-Mashad et al. also revealed that the\np-SOFA score was positively correlated with the PRISM score (r=0.59) [2].\nApart from the fact that p-SOFA was a better predictor of 30-day death among critically ill children than\nPRISM III in our study, the p-SOFA score offers other advantages over PRISM III. p-SOFA is free of cost and\ndoes not require the use of a calculator. p-SOFA has fewer calculation parameters than the PRISM III 24\nscore. p-SOFA is computed every day, providing a dynamic assessment of the progression of the disease,\nwhereas PRISM is performed only at the time of admission. Because it is tailored to oxygen saturation\n(SPO2) values rather than partial pressure of oxygen (PaO2) readings, the p-SOFA does not need arterial\nblood gas analysis, which can be difficult to acquire in children [6,23-25]. With limited resources, there are\njust a few tertiary care referral institutions for pediatric admission in Pakistan. In such circumstances, p-\nSOFA can be used to determine which patients require critical care and can also aid in predicting the\npatients' prognosis. There are several limitations to our research study. All the data was collected from a\nsingle PICU, in comparison to other validation studies, the present study's sample size was relatively small.\nMore studies with a larger sample size are required in the future to improve the accuracy of results.\nConclusions\nMortality among the children admitted to critical care units is high despite the use of advanced\nequipment and sophisticated techniques.\np-SOFA and PRISM III 24 both have proven to be valuable in objective prediction in these patients. In this\nstudy, we compared the diagnostic accuracy of the Pediatric Risk of Mortality (PRISM) III score and Pediatric\nSequential Organ Failure Assessment (p-SOFA) for the prediction of mortality in critically ill children and\nshowed that the p-SOFA score is a good predictor for 30-day mortality in critically ill children with better\naccuracy than the PRISM III 24 score.\nAdditional Information\nDisclosures\nHuman subjects: Consent was obtained or waived by all participants in this study. Institutional Ethical\nReview Board National Institute of Child Health Karachi-75510 issued approval 42/2020. This is to inform\nyou that the Ethical Review Committee of NICH has approved the study and permission is granted. Animal\nsubjects: All authors have confirmed that this study did not involve animal subjects or tissue. Conflicts of\ninterest: In compliance with the ICMJE uniform disclosure form, all authors declare the following:\nPayment/services info: All authors have declared that no financial support was received from any\norganization for the submitted work. Financial relationships: All authors have declared that they have no\nfinancial relationships at present or within the previous three years with any organizations that might have\nan interest in the submitted work. Other relationships: All authors have declared that there are no other\nrelationships or activities that could appear to have influenced the submitted work.\nReferences\n1.\nQiu J, Lu X, Wang K, Zhu Y, Zuo C, Xiao Z: Comparison of the pediatric risk of mortality, pediatric index of\nmortality, and pediatric index of mortality 2 models in a pediatric intensive care unit in China: a validation\nstudy. Medicine (Baltimore). 2017, 96:e6431. 10.1097/MD.0000000000006431\n2.\nEl-Mashad G, Elmekkawy M, Zayan M: Paediatric sequential organ failure assessment (pSOFA) score: a new\nmortality prediction score in the pediatric intensive care unit. An Pediatr (Engl Ed). 2019,\n92:10.1016/j.anpede.2019.11.001\n3.\nMirza S, Malik L, Ahmed J, Malik F, Sadiq H, Ali S, Aziz S: Accuracy of pediatric risk of mortality (PRISM) III\nscore in predicting mortality outcomes in a pediatric intensive care unit in Karachi. Cureus. 2020, 12:e7489.\n10.7759/cureus.7489\n4.\nQureshi AU, Ali AS, Ahmad TM: Comparison of three prognostic scores (PRISM, PELOD, and PIM 2) at\npediatric intensive care unit under Pakistani circumstances. J Ayub Med Coll Abbottabad. 2007, 19:49-53.\n5.\nShen Y, Jiang J: Meta-analysis for the prediction of mortality rates in a pediatric intensive care unit using\ndifferent scores: PRISM-III/IV, PIM-3, and PELOD-2. Front Pediatr. 2021, 9:712276.\n10.3389/fped.2021.712276\n6.\nArias L\u00c3\u00b3pez MD, Boada N, Fern\u00c3\u00a1ndez A, Fern\u00c3\u00a1ndez AL, Ratto ME, Siaba Serrate A, Schnitzler E: Performance\nof the pediatric risk of mortality 3 score in PICUs in Argentina: a prospective, national multicenter study.\nPediatr Crit Care Med. 2018, 19:e653-61. 10.1097/PCC.0000000000001741\n7.\nGandhi J, Sangareddi S, Varadarajan P, Suresh S: Pediatric index of mortality 2 score as an outcome\npredictor in pediatric intensive care Unit in India. Indian J Crit Care Med. 2013, 17:288-91. 10.4103/0972-\n2022 Baloch et al. Cureus 14(1): e21055. DOI 10.7759/cureus.21055\n7 of 8",
+            "length": 5864,
+            "sentences": 88,
+            "chunks": [
+                {
+                    "chunk_id": 0,
+                    "text": "study, we used >8 and >2 as the optimum PRISM III 24 and p-SOFA cut-off values for the prediction of 30- day mortality. We found that p-SOFA (>2) had a greater sensitivity than PRISM III 24 (>8) (94% vs. 56%), while p-SOFA (>2) had a lower specificity than PRISM III 24 (>8) (38.2% vs 77.2%). Furthermore, p-SOFA (>2) had somewhat better accuracy than PRISM III 24 (>8) (70% vs 65%). El-Mashad et al. also discovered that the SOFA is more accurate than the PRISM score in predicting death in PICU children. They discovered that a SOFA score of more than 2 predicted death in 40% of PICU patients with 100% sensitivity and 5.2% specificity. At higher cut-off values of scoring systems for the prediction of 30-day mortality, they found p- SOFA score (cut-off >6.5) had sensitivity as 80.9% and specificity as 81.8%, whereas PRISM score (cut-off >17.2) had sensitivity as 70.6% and specificity as 82.3% [2].",
+                    "start_char": 0,
+                    "end_char": 905,
+                    "sentence_start": 0,
+                    "sentence_end": 6
+                },
+                {
+                    "chunk_id": 1,
+                    "text": "At higher cut-off values of scoring systems for the prediction of 30-day mortality, they found p- SOFA score (cut-off >6.5) had sensitivity as 80.9% and specificity as 81.8%, whereas PRISM score (cut-off >17.2) had sensitivity as 70.6% and specificity as 82.3% [2]. We also found a positive correlation between the p-SOFA and PRISM III 24 score in PICU admitted children (r=0.712). El-Mashad et al. also revealed that the p-SOFA score was positively correlated with the PRISM score (r=0.59) [2]. Apart from the fact that p-SOFA was a better predictor of 30-day death among critically ill children than PRISM III in our study, the p-SOFA score offers other advantages over PRISM III. p-SOFA is free of cost and does not require the use of a calculator. p-SOFA has fewer calculation parameters than the PRISM III 24 score. p-SOFA is computed every day, providing a dynamic assessment of the progression of the disease, whereas PRISM is performed only at the time of admission.",
+                    "start_char": 640,
+                    "end_char": 1614,
+                    "sentence_start": 6,
+                    "sentence_end": 13
+                },
+                {
+                    "chunk_id": 2,
+                    "text": "p-SOFA is computed every day, providing a dynamic assessment of the progression of the disease, whereas PRISM is performed only at the time of admission. Because it is tailored to oxygen saturation (SPO2) values rather than partial pressure of oxygen (PaO2) readings, the p-SOFA does not need arterial blood gas analysis, which can be difficult to acquire in children [6,23-25]. With limited resources, there are just a few tertiary care referral institutions for pediatric admission in Pakistan. In such circumstances, p- SOFA can be used to determine which patients require critical care and can also aid in predicting the patients' prognosis. There are several limitations to our research study. All the data was collected from a single PICU, in comparison to other validation studies, the present study's sample size was relatively small. More studies with a larger sample size are required in the future to improve the accuracy of results.",
+                    "start_char": 1461,
+                    "end_char": 2405,
+                    "sentence_start": 13,
+                    "sentence_end": 19
+                },
+                {
+                    "chunk_id": 3,
+                    "text": "More studies with a larger sample size are required in the future to improve the accuracy of results. Conclusions Mortality among the children admitted to critical care units is high despite the use of advanced equipment and sophisticated techniques. p-SOFA and PRISM III 24 both have proven to be valuable in objective prediction in these patients. In this study, we compared the diagnostic accuracy of the Pediatric Risk of Mortality (PRISM) III score and Pediatric Sequential Organ Failure Assessment (p-SOFA) for the prediction of mortality in critically ill children and showed that the p-SOFA score is a good predictor for 30-day mortality in critically ill children with better accuracy than the PRISM III 24 score. Additional Information Disclosures Human subjects: Consent was obtained or waived by all participants in this study. Institutional Ethical Review Board National Institute of Child Health Karachi-75510 issued approval 42/2020.",
+                    "start_char": 2304,
+                    "end_char": 3252,
+                    "sentence_start": 19,
+                    "sentence_end": 24
+                },
+                {
+                    "chunk_id": 4,
+                    "text": "Institutional Ethical Review Board National Institute of Child Health Karachi-75510 issued approval 42/2020. This is to inform you that the Ethical Review Committee of NICH has approved the study and permission is granted. Animal subjects: All authors have confirmed that this study did not involve animal subjects or tissue. Conflicts of interest: In compliance with the ICMJE uniform disclosure form, all authors declare the following: Payment/services info: All authors have declared that no financial support was received from any organization for the submitted work. Financial relationships: All authors have declared that they have no financial relationships at present or within the previous three years with any organizations that might have an interest in the submitted work. Other relationships: All authors have declared that there are no other relationships or activities that could appear to have influenced the submitted work. References 1.",
+                    "start_char": 3144,
+                    "end_char": 4098,
+                    "sentence_start": 24,
+                    "sentence_end": 30
+                },
+                {
+                    "chunk_id": 5,
+                    "text": "References 1. Qiu J, Lu X, Wang K, Zhu Y, Zuo C, Xiao Z: Comparison of the pediatric risk of mortality, pediatric index of mortality, and pediatric index of mortality 2 models in a pediatric intensive care unit in China: a validation study. Medicine (Baltimore). 2017, 96:e6431. 10.1097/MD.0000000000006431 2. El-Mashad G, Elmekkawy M, Zayan M: Paediatric sequential organ failure assessment (pSOFA) score: a new mortality prediction score in the pediatric intensive care unit. An Pediatr (Engl Ed). 2019, 92:10.1016/j.anpede.2019.11.001 3. Mirza S, Malik L, Ahmed J, Malik F, Sadiq H, Ali S, Aziz S: Accuracy of pediatric risk of mortality (PRISM) III score in predicting mortality outcomes in a pediatric intensive care unit in Karachi. Cureus. 2020, 12:e7489. 10.7759/cureus.7489 4. Qureshi AU, Ali AS, Ahmad TM: Comparison of three prognostic scores (PRISM, PELOD, and PIM 2) at pediatric intensive care unit under Pakistani circumstances. J Ayub Med Coll Abbottabad. 2007, 19:49-53. 5.",
+                    "start_char": 4085,
+                    "end_char": 624,
+                    "sentence_start": 30,
+                    "sentence_end": 45
+                },
+                {
+                    "chunk_id": 6,
+                    "text": "5. Shen Y, Jiang J: Meta-analysis for the prediction of mortality rates in a pediatric intensive care unit using different scores: PRISM-III/IV, PIM-3, and PELOD-2. Front Pediatr. 2021, 9:712276. 10.3389/fped.2021.712276 6. Arias L\u00c3\u00b3pez MD, Boada N, Fern\u00c3\u00a1ndez A, Fern\u00c3\u00a1ndez AL, Ratto ME, Siaba Serrate A, Schnitzler E: Performance of the pediatric risk of mortality 3 score in PICUs in Argentina: a prospective, national multicenter study. Pediatr Crit Care Med. 2018, 19:e653-61. 10.1097/PCC.0000000000001741 7. Gandhi J, Sangareddi S, Varadarajan P, Suresh S: Pediatric index of mortality 2 score as an outcome predictor in pediatric intensive care Unit in India. Indian J Crit Care Med. 2013, 17:288-91. 10.4103/0972- 2022 Baloch et al. Cureus 14(1): e21055. DOI 10.7759/cureus.21055 7 of 8",
+                    "start_char": 622,
+                    "end_char": 5867,
+                    "sentence_start": 45,
+                    "sentence_end": 59
+                }
+            ]
+        },
+        {
+            "block_id": 9,
+            "chunk_id": 0,
+            "page_number": 8,
+            "type": "text",
+            "role": "list",
+            "content": "5229.120320\n8.\nBora R: Prediction of mortality by pediatric risk of mortality (PRISM) III score in NGMC pediatric intensive\ncare unit. J Nepalgunj Med Coll. 2019, 17:5-9. 10.3126/jngmc.v17i1.25305\n9.\nHassan ZE, Quyoom I, Mushtaq I: Validity of PRISM score in predicting mortality in a tertiary care hospital\nin North India. Int J Contemp Med Res. 2018, 5:10.21276/ijcmr.2018.5.9.16\n10.\nAlbuali WH, Algamdi AA, Hasan EA, et al.: Use of a mortality prediction model in children on mechanical\nventilation: a 5-year experience in a tertiary university hospital. J Multidiscip Healthc. 2020, 13:1507-16.\n10.2147/JMDH.S282108\n11.\nSinghal D, Kumar N, Puliyel JM, et al.: Prediction of mortality by application of PRISM score in the intensive\ncare unit. Indian Pediatr. 2001, 38:714-9.\n12.\nCosta GA, Delgado AF, Ferraro A, Okay TS: Application of the pediatric risk of mortality (PRISM) score and\ndetermination of mortality risk factors in a tertiary pediatric intensive care unit. Clinics (Sao Paulo). 2010,\n65:1087-92. 10.1590/s1807-59322010001100005\n13.\nWard AE, Davis TW: Evaluation of the validity of the paediatric sequential organ failure assessment score in\ncritically ill children. Pediatrics. 2020, 146:159-61. 10.1542/peds.146.1_MeetingAbstract.159-a\n14.\nMatics TJ, Sanchez-Pinto LN: Adaptation and validation of a paediatric sequential organ failure assessment\nscore and evaluation of the sepsis-3 definitions in critically ill children. JAMA Pediatr. 2017, 171:e172352.\n10.1001/jamapediatrics.2017.2352\n15.\nBagaswoto HP, Taufiq N, Setianto BY: A simplified risk scoring system to predict mortality in cardiovascular\nintensive care unit. Cardiol Res. 2019, 10:216-22. 10.14740/cr884\n16.\nKhajeh A, Noori NM, Reisi M, Fayyazi A, Mohammadi M, Miri-Aliabad G: Mortality risk prediction by\napplication of pediatric risk of mortality scoring system in the pediatric intensive care unit. Iran J Pediatr.\n2013, 23:546-50.\n17.\nGulla KM, Sachdev A: Illness severity and organ dysfunction scoring in pediatric intensive care unit . Indian J\nCrit Care Med. 2016, 20:27-35. 10.4103/0972-5229.173685\n18.\nKumbar S: Assessment of pSOFA-L score in predicting the clinical outcome of critically ill children . Int J\nContemp Pediatr. 2020, 7:925-31.\n19.\nTurner EL, Nielsen KR, Jamal SM, von Saint Andr\u00c3\u00a9-von Arnim A, Musa NL: A review of pediatric critical care\nin resource-limited settings: a look at past, present, and future directions. Front Pediatr. 2016, 4:5.\n10.3389/fped.2016.00005\n20.\nJeong S: Scoring systems for the patients of intensive care unit . Acute Crit Care. 2018, 33:102-4.\n10.4266/acc.2018.00185\n21.\nRapsang AG, Shyam DC: Scoring systems in the intensive care unit: a compendium . Indian J Crit Care Med.\n2014, 18:220-8. 10.4103/0972-5229.130573\n22.\nZhou LB, Chen J, DU XC, Wu SY, Bai ZJ, Lyu HT: [Value of three scoring systems in evaluating the prognosis\nof children with severe sepsis]. Zhongguo Dang Dai Er Ke Za Zhi. 2019, 21:898-903. 10.7499/j.issn.1008-\n8830.2019.09.011\n23.\nLalitha AV, Satish JK, Reddy M, Ghosh S, George J, Pujari C: Sequential organ failure assessment score as a\npredictor of outcome in sepsis in pediatric intensive care unit. J Pediatr Intensive Care. 2021, 10:110-7.\n10.1055/s-0040-1714705\n24.\nGon\u00c3\u00a7alves JP, Severo M, Rocha C, Jardim J, Mota T, Ribeiro A: Performance of PRISM III and PELOD-2\nscores in a pediatric intensive care unit. Eur J Pediatr. 2015, 174:1305-10. 10.1007/s00431-015-2533-5\n25.\nMadan A: Correlation between the levels of SpO2and PaO2 . Lung India. 2017, 34:307-8.\n10.4103/lungindia.lungindia_106_17\n2022 Baloch et al. Cureus 14(1): e21055. DOI 10.7759/cureus.21055\n8 of 8",
+            "length": 3628,
+            "sentences": 117,
+            "chunks": [
+                {
+                    "chunk_id": 0,
+                    "text": "5229.120320 8. Bora R: Prediction of mortality by pediatric risk of mortality (PRISM) III score in NGMC pediatric intensive care unit. J Nepalgunj Med Coll. 2019, 17:5-9. 10.3126/jngmc.v17i1.25305 9. Hassan ZE, Quyoom I, Mushtaq I: Validity of PRISM score in predicting mortality in a tertiary care hospital in North India. Int J Contemp Med Res. 2018, 5:10.21276/ijcmr.2018.5.9.16 10. Albuali WH, Algamdi AA, Hasan EA, et al. : Use of a mortality prediction model in children on mechanical ventilation: a 5-year experience in a tertiary university hospital. J Multidiscip Healthc. 2020, 13:1507-16. 10.2147/JMDH.S282108 11. Singhal D, Kumar N, Puliyel JM, et al. : Prediction of mortality by application of PRISM score in the intensive care unit. Indian Pediatr. 2001, 38:714-9. 12. Costa GA, Delgado AF, Ferraro A, Okay TS: Application of the pediatric risk of mortality (PRISM) score and determination of mortality risk factors in a tertiary pediatric intensive care unit. Clinics (Sao Paulo). 2010, 65:1087-92.",
+                    "start_char": 0,
+                    "end_char": 1012,
+                    "sentence_start": 0,
+                    "sentence_end": 20
+                },
+                {
+                    "chunk_id": 1,
+                    "text": "2010, 65:1087-92. 10.1590/s1807-59322010001100005 13. Ward AE, Davis TW: Evaluation of the validity of the paediatric sequential organ failure assessment score in critically ill children. Pediatrics. 2020, 146:159-61. 10.1542/peds.146.1_MeetingAbstract.159-a 14. Matics TJ, Sanchez-Pinto LN: Adaptation and validation of a paediatric sequential organ failure assessment score and evaluation of the sepsis-3 definitions in critically ill children. JAMA Pediatr. 2017, 171:e172352. 10.1001/jamapediatrics.2017.2352 15. Bagaswoto HP, Taufiq N, Setianto BY: A simplified risk scoring system to predict mortality in cardiovascular intensive care unit. Cardiol Res. 2019, 10:216-22. 10.14740/cr884 16. Khajeh A, Noori NM, Reisi M, Fayyazi A, Mohammadi M, Miri-Aliabad G: Mortality risk prediction by application of pediatric risk of mortality scoring system in the pediatric intensive care unit. Iran J Pediatr. 2013, 23:546-50. 17.",
+                    "start_char": 995,
+                    "end_char": 1503,
+                    "sentence_start": 20,
+                    "sentence_end": 37
+                },
+                {
+                    "chunk_id": 2,
+                    "text": "17. Gulla KM, Sachdev A: Illness severity and organ dysfunction scoring in pediatric intensive care unit . Indian J Crit Care Med. 2016, 20:27-35. 10.4103/0972-5229.173685 18. Kumbar S: Assessment of pSOFA-L score in predicting the clinical outcome of critically ill children . Int J Contemp Pediatr. 2020, 7:925-31. 19. Turner EL, Nielsen KR, Jamal SM, von Saint Andr\u00c3\u00a9-von Arnim A, Musa NL: A review of pediatric critical care in resource-limited settings: a look at past, present, and future directions. Front Pediatr. 2016, 4:5. 10.3389/fped.2016.00005 20. Jeong S: Scoring systems for the patients of intensive care unit . Acute Crit Care. 2018, 33:102-4. 10.4266/acc.2018.00185 21. Rapsang AG, Shyam DC: Scoring systems in the intensive care unit: a compendium . Indian J Crit Care Med. 2014, 18:220-8. 10.4103/0972-5229.130573 22. Zhou LB, Chen J, DU XC, Wu SY, Bai ZJ, Lyu HT: [Value of three scoring systems in evaluating the prognosis of children with severe sepsis]. Zhongguo Dang Dai Er Ke Za Zhi.",
+                    "start_char": 1500,
+                    "end_char": 2927,
+                    "sentence_start": 37,
+                    "sentence_end": 59
+                },
+                {
+                    "chunk_id": 3,
+                    "text": "Zhongguo Dang Dai Er Ke Za Zhi. 2019, 21:898-903. 10.7499/j.issn.1008- 8830.2019.09.011 23. Lalitha AV, Satish JK, Reddy M, Ghosh S, George J, Pujari C: Sequential organ failure assessment score as a predictor of outcome in sepsis in pediatric intensive care unit. J Pediatr Intensive Care. 2021, 10:110-7. 10.1055/s-0040-1714705 24. Gon\u00c3\u00a7alves JP, Severo M, Rocha C, Jardim J, Mota T, Ribeiro A: Performance of PRISM III and PELOD-2 scores in a pediatric intensive care unit. Eur J Pediatr. 2015, 174:1305-10. 10.1007/s00431-015-2533-5 25. Madan A: Correlation between the levels of SpO2and PaO2 . Lung India. 2017, 34:307-8. 10.4103/lungindia.lungindia_106_17 2022 Baloch et al. Cureus 14(1): e21055. DOI 10.7759/cureus.21055 8 of 8",
+                    "start_char": 2896,
+                    "end_char": 3630,
+                    "sentence_start": 59,
+                    "sentence_end": 75
+                }
+            ]
+        }
+    ],
+    "tables": [
+        {
+            "table_id": 0,
+            "page_number": 3,
+            "index": 0,
+            "rows": 2,
+            "cols": 1,
+            "headers": [
+                "Mortality Total p-value Yes (n=163) No (n=123) Age (months) 24 (2-144) 21 (1-144) 24 (1-144) 0.902 Weight (kg) 10 (2.2-40) 10 (2.7-47) 10 (2.2-47) 0.578 Type of admission Clinical 155 (95.1) 108 (87.8) 263 (92) 0.025* Surgical 8 (4.9) 15 (12.2) 23 (8) Ventilator requirement Yes 163 (100) 79 (64.2) 242 (84.6) 0.001* No 0 44 (35.8) 44 (15.4) Inotrope Need Yes 140 (85.9) 27 (22) 167 (58.4) 0.001* No 23 (14.1) 96 (78) 119 (41.6) p-SOFA score 8 (1-20) 4 (0-14) 6.50 (0-20) 0.001* PRISM III 24 score 10 (0-29) 3 (0-20) 7 (0-29) 0.001* Duration of PICU stay (days) 5 (1-40) 5 (1-39) 5 (1-40) 0.679 Data expressed as median (range: minimum-maximum), or n (%). *Statistically significant"
+            ],
+            "data": [
+                [
+                    "TABLE 1: Baseline information of study sample (n=286) PRISM: Pediatric Risk of Mortality; p-SOFA: Pediatric Sequential Organ Failure Assessment; PICU: Pediatric Intensive Care Unit"
+                ]
+            ],
+            "table_2d_array": [
+                [
+                    "Mortality Total p-value Yes (n=163) No (n=123) Age (months) 24 (2-144) 21 (1-144) 24 (1-144) 0.902 Weight (kg) 10 (2.2-40) 10 (2.7-47) 10 (2.2-47) 0.578 Type of admission Clinical 155 (95.1) 108 (87.8) 263 (92) 0.025* Surgical 8 (4.9) 15 (12.2) 23 (8) Ventilator requirement Yes 163 (100) 79 (64.2) 242 (84.6) 0.001* No 0 44 (35.8) 44 (15.4) Inotrope Need Yes 140 (85.9) 27 (22) 167 (58.4) 0.001* No 23 (14.1) 96 (78) 119 (41.6) p-SOFA score 8 (1-20) 4 (0-14) 6.50 (0-20) 0.001* PRISM III 24 score 10 (0-29) 3 (0-20) 7 (0-29) 0.001* Duration of PICU stay (days) 5 (1-40) 5 (1-39) 5 (1-40) 0.679 Data expressed as median (range: minimum-maximum), or n (%). *Statistically significant"
+                ],
+                [
+                    "TABLE 1: Baseline information of study sample (n=286) PRISM: Pediatric Risk of Mortality; p-SOFA: Pediatric Sequential Organ Failure Assessment; PICU: Pediatric Intensive Care Unit"
+                ]
+            ],
+            "markdown": "| Mortality Total p-value Yes (n=163) No (n=123) Age (months) 24 (2-144) 21 (1-144) 24 (1-144) 0.902 Weight (kg) 10 (2.2-40) 10 (2.7-47) 10 (2.2-47) 0.578 Type of admission Clinical 155 (95.1) 108 (87.8) 263 (92) 0.025* Surgical 8 (4.9) 15 (12.2) 23 (8) Ventilator requirement Yes 163 (100) 79 (64.2) 242 (84.6) 0.001* No 0 44 (35.8) 44 (15.4) Inotrope Need Yes 140 (85.9) 27 (22) 167 (58.4) 0.001* No 23 (14.1) 96 (78) 119 (41.6) p-SOFA score 8 (1-20) 4 (0-14) 6.50 (0-20) 0.001* PRISM III 24 score 10 (0-29) 3 (0-20) 7 (0-29) 0.001* Duration of PICU stay (days) 5 (1-40) 5 (1-39) 5 (1-40) 0.679 Data expressed as median (range: minimum-maximum), or n (%). *Statistically significant |\n|---|\n| TABLE 1: Baseline information of study sample (n=286) PRISM: Pediatric Risk of Mortality; p-SOFA: Pediatric Sequential Organ Failure Assessment; PICU: Pediatric Intensive Care Unit |"
+        },
+        {
+            "table_id": 1,
+            "page_number": 3,
+            "index": 1,
+            "rows": 17,
+            "cols": 6,
+            "headers": [
+                "",
+                "Mortality",
+                "",
+                "Total",
+                "p-value",
+                ""
+            ],
+            "data": [
+                [
+                    "",
+                    "Yes (n=163)",
+                    "No (n=123)",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Age (months) 24 (2-144) 21 (1-144) 24 (1-144) 0.902",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Weight (kg)",
+                    "10 (2.2-40)",
+                    "10 (2.7-47)",
+                    "10 (2.2-47)",
+                    "0.578",
+                    ""
+                ],
+                [
+                    "Type of admission",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Clinical",
+                    "155 (95.1)",
+                    "108 (87.8)",
+                    "263 (92)",
+                    "0.025*",
+                    ""
+                ],
+                [
+                    "Surgical 8 (4.9) 15 (12.2) 23 (8)",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Ventilator requirement",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Yes 163 (100) 79 (64.2) 242 (84.6) 0.001*",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "No",
+                    "0",
+                    "44 (35.8)",
+                    "44 (15.4)",
+                    "",
+                    ""
+                ],
+                [
+                    "Inotrope Need",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Yes",
+                    "140 (85.9)",
+                    "27 (22)",
+                    "167 (58.4)",
+                    "0.001*",
+                    ""
+                ],
+                [
+                    "No 23 (14.1) 96 (78) 119 (41.6)",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "p-SOFA score",
+                    "8 (1-20)",
+                    "4 (0-14)",
+                    "6.50 (0-20)",
+                    "0.001*",
+                    ""
+                ],
+                [
+                    "PRISM III 24 score 10 (0-29) 3 (0-20) 7 (0-29) 0.001*",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Duration of PICU stay (days)",
+                    "5 (1-40)",
+                    "5 (1-39)",
+                    "5 (1-40)",
+                    "0.679",
+                    ""
+                ],
+                [
+                    "Data expressed as median (range: minimum-maximum), or n (%). *Statistically significant",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            ],
+            "table_2d_array": [
+                [
+                    "",
+                    "Mortality",
+                    "",
+                    "Total",
+                    "p-value",
+                    ""
+                ],
+                [
+                    "",
+                    "Yes (n=163)",
+                    "No (n=123)",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Age (months) 24 (2-144) 21 (1-144) 24 (1-144) 0.902",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Weight (kg)",
+                    "10 (2.2-40)",
+                    "10 (2.7-47)",
+                    "10 (2.2-47)",
+                    "0.578",
+                    ""
+                ],
+                [
+                    "Type of admission",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Clinical",
+                    "155 (95.1)",
+                    "108 (87.8)",
+                    "263 (92)",
+                    "0.025*",
+                    ""
+                ],
+                [
+                    "Surgical 8 (4.9) 15 (12.2) 23 (8)",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Ventilator requirement",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Yes 163 (100) 79 (64.2) 242 (84.6) 0.001*",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "No",
+                    "0",
+                    "44 (35.8)",
+                    "44 (15.4)",
+                    "",
+                    ""
+                ],
+                [
+                    "Inotrope Need",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Yes",
+                    "140 (85.9)",
+                    "27 (22)",
+                    "167 (58.4)",
+                    "0.001*",
+                    ""
+                ],
+                [
+                    "No 23 (14.1) 96 (78) 119 (41.6)",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "p-SOFA score",
+                    "8 (1-20)",
+                    "4 (0-14)",
+                    "6.50 (0-20)",
+                    "0.001*",
+                    ""
+                ],
+                [
+                    "PRISM III 24 score 10 (0-29) 3 (0-20) 7 (0-29) 0.001*",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Duration of PICU stay (days)",
+                    "5 (1-40)",
+                    "5 (1-39)",
+                    "5 (1-40)",
+                    "0.679",
+                    ""
+                ],
+                [
+                    "Data expressed as median (range: minimum-maximum), or n (%). *Statistically significant",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            ],
+            "markdown": "|  | Mortality |  | Total | p-value |  |\n|---|---|---|---|---|---|\n|  | Yes (n=163) | No (n=123) |  |  |  |\n| Age (months) 24 (2-144) 21 (1-144) 24 (1-144) 0.902 |  |  |  |  |  |\n| Weight (kg) | 10 (2.2-40) | 10 (2.7-47) | 10 (2.2-47) | 0.578 |  |\n| Type of admission |  |  |  |  |  |\n| Clinical | 155 (95.1) | 108 (87.8) | 263 (92) | 0.025* |  |\n| Surgical 8 (4.9) 15 (12.2) 23 (8) |  |  |  |  |  |\n| Ventilator requirement |  |  |  |  |  |\n| Yes 163 (100) 79 (64.2) 242 (84.6) 0.001* |  |  |  |  |  |\n| No | 0 | 44 (35.8) | 44 (15.4) |  |  |\n| Inotrope Need |  |  |  |  |  |\n| Yes | 140 (85.9) | 27 (22) | 167 (58.4) | 0.001* |  |\n| No 23 (14.1) 96 (78) 119 (41.6) |  |  |  |  |  |\n| p-SOFA score | 8 (1-20) | 4 (0-14) | 6.50 (0-20) | 0.001* |  |\n| PRISM III 24 score 10 (0-29) 3 (0-20) 7 (0-29) 0.001* |  |  |  |  |  |\n| Duration of PICU stay (days) | 5 (1-40) | 5 (1-39) | 5 (1-40) | 0.679 |  |\n| Data expressed as median (range: minimum-maximum), or n (%). *Statistically significant |  |  |  |  |  |"
+        },
+        {
+            "table_id": 2,
+            "page_number": 4,
+            "index": 0,
+            "rows": 2,
+            "cols": 1,
+            "headers": [
+                ""
+            ],
+            "data": [
+                [
+                    "FIGURE 1: Frequency distribution of 30-day mortality among the different categories of p-SOFA: The x-axis displays p-SOFA sub- categories. Children were categorized based on cut off values corresponding to the 25th, 50th and 75th percentiles in the distribution of p-SOFA scores. The y-axis displays frequency of children that died in subcategory relative to total number of mortalities. p-SOFA: Pediatric Sequential Organ Failure Assessment"
+                ]
+            ],
+            "table_2d_array": [
+                [
+                    ""
+                ],
+                [
+                    "FIGURE 1: Frequency distribution of 30-day mortality among the different categories of p-SOFA: The x-axis displays p-SOFA sub- categories. Children were categorized based on cut off values corresponding to the 25th, 50th and 75th percentiles in the distribution of p-SOFA scores. The y-axis displays frequency of children that died in subcategory relative to total number of mortalities. p-SOFA: Pediatric Sequential Organ Failure Assessment"
+                ]
+            ],
+            "markdown": "|  |\n|---|\n| FIGURE 1: Frequency distribution of 30-day mortality among the different categories of p-SOFA: The x-axis displays p-SOFA sub- categories. Children were categorized based on cut off values corresponding to the 25th, 50th and 75th percentiles in the distribution of p-SOFA scores. The y-axis displays frequency of children that died in subcategory relative to total number of mortalities. p-SOFA: Pediatric Sequential Organ Failure Assessment |"
+        },
+        {
+            "table_id": 3,
+            "page_number": 4,
+            "index": 1,
+            "rows": 2,
+            "cols": 1,
+            "headers": [
+                ""
+            ],
+            "data": [
+                [
+                    "FIGURE 2: Frequency of distribution of 30-day mortality among different categories of PRISM III 24: The x-axis displays PRSIM III 24 score subcategories. Children were categorized based on cut off values corresponding to the 25th, 50th and 75th percentiles in the distribution of PRISM III 24 scores. The y-axis displays the frequency of children that died in sub-categories relative to total number of mortalities. PRISM: Pediatric Risk of Mortality"
+                ]
+            ],
+            "table_2d_array": [
+                [
+                    ""
+                ],
+                [
+                    "FIGURE 2: Frequency of distribution of 30-day mortality among different categories of PRISM III 24: The x-axis displays PRSIM III 24 score subcategories. Children were categorized based on cut off values corresponding to the 25th, 50th and 75th percentiles in the distribution of PRISM III 24 scores. The y-axis displays the frequency of children that died in sub-categories relative to total number of mortalities. PRISM: Pediatric Risk of Mortality"
+                ]
+            ],
+            "markdown": "|  |\n|---|\n| FIGURE 2: Frequency of distribution of 30-day mortality among different categories of PRISM III 24: The x-axis displays PRSIM III 24 score subcategories. Children were categorized based on cut off values corresponding to the 25th, 50th and 75th percentiles in the distribution of PRISM III 24 scores. The y-axis displays the frequency of children that died in sub-categories relative to total number of mortalities. PRISM: Pediatric Risk of Mortality |"
+        },
+        {
+            "table_id": 4,
+            "page_number": 5,
+            "index": 0,
+            "rows": 2,
+            "cols": 1,
+            "headers": [
+                ""
+            ],
+            "data": [
+                [
+                    "FIGURE 3: ROC curves analysis for relation of 30-day mortality using p- SOFA and PRISM III 24 scores in critically ill patients. PRISM: Pediatric Risk of Mortality; p-SOFA: Pediatric Sequential Organ Failure Assessment; ROC: receiver operating characteristic"
+                ]
+            ],
+            "table_2d_array": [
+                [
+                    ""
+                ],
+                [
+                    "FIGURE 3: ROC curves analysis for relation of 30-day mortality using p- SOFA and PRISM III 24 scores in critically ill patients. PRISM: Pediatric Risk of Mortality; p-SOFA: Pediatric Sequential Organ Failure Assessment; ROC: receiver operating characteristic"
+                ]
+            ],
+            "markdown": "|  |\n|---|\n| FIGURE 3: ROC curves analysis for relation of 30-day mortality using p- SOFA and PRISM III 24 scores in critically ill patients. PRISM: Pediatric Risk of Mortality; p-SOFA: Pediatric Sequential Organ Failure Assessment; ROC: receiver operating characteristic |"
+        },
+        {
+            "table_id": 5,
+            "page_number": 5,
+            "index": 1,
+            "rows": 2,
+            "cols": 1,
+            "headers": [
+                "PRISM III 24 score p-SOFA score Duration of PICU stay PRISM III 24 score 1 0.712 (0.001*) 0.063 (0.290) p-SOFA score 0.712 (0.001*) 1 0.054 (0.366) Duration of PICU stay 0.063 (0.290) 0.054 (0.366) 1 Data expressed as Spearmen's rho (p-value) *Statistically significant"
+            ],
+            "data": [
+                [
+                    "TABLE 2: Correlation analysis between PRISM III 24 score and p-SOFA score and duration of PICU stay (n=286) PRISM: Pediatric Risk of Mortality; p-SOFA: Pediatric Sequential Organ Failure Assessment; PICU: Pediatric Intensive Care Unit"
+                ]
+            ],
+            "table_2d_array": [
+                [
+                    "PRISM III 24 score p-SOFA score Duration of PICU stay PRISM III 24 score 1 0.712 (0.001*) 0.063 (0.290) p-SOFA score 0.712 (0.001*) 1 0.054 (0.366) Duration of PICU stay 0.063 (0.290) 0.054 (0.366) 1 Data expressed as Spearmen's rho (p-value) *Statistically significant"
+                ],
+                [
+                    "TABLE 2: Correlation analysis between PRISM III 24 score and p-SOFA score and duration of PICU stay (n=286) PRISM: Pediatric Risk of Mortality; p-SOFA: Pediatric Sequential Organ Failure Assessment; PICU: Pediatric Intensive Care Unit"
+                ]
+            ],
+            "markdown": "| PRISM III 24 score p-SOFA score Duration of PICU stay PRISM III 24 score 1 0.712 (0.001*) 0.063 (0.290) p-SOFA score 0.712 (0.001*) 1 0.054 (0.366) Duration of PICU stay 0.063 (0.290) 0.054 (0.366) 1 Data expressed as Spearmen's rho (p-value) *Statistically significant |\n|---|\n| TABLE 2: Correlation analysis between PRISM III 24 score and p-SOFA score and duration of PICU stay (n=286) PRISM: Pediatric Risk of Mortality; p-SOFA: Pediatric Sequential Organ Failure Assessment; PICU: Pediatric Intensive Care Unit |"
+        },
+        {
+            "table_id": 6,
+            "page_number": 5,
+            "index": 2,
+            "rows": 6,
+            "cols": 4,
+            "headers": [
+                "",
+                "PRISM III 24 score",
+                "p-SOFA score",
+                "Duration of PICU stay"
+            ],
+            "data": [
+                [
+                    "PRISM III 24 score",
+                    "1",
+                    "0.712 (0.001*)",
+                    "0.063 (0.290)"
+                ],
+                [
+                    "p-SOFA score 0.712 (0.001*) 1 0.054 (0.366)",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Duration of PICU stay",
+                    "0.063 (0.290)",
+                    "0.054 (0.366)",
+                    "1"
+                ],
+                [
+                    "Data expressed as Spearmen's rho (p-value)",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "*Statistically significant",
+                    "",
+                    "",
+                    ""
+                ]
+            ],
+            "table_2d_array": [
+                [
+                    "",
+                    "PRISM III 24 score",
+                    "p-SOFA score",
+                    "Duration of PICU stay"
+                ],
+                [
+                    "PRISM III 24 score",
+                    "1",
+                    "0.712 (0.001*)",
+                    "0.063 (0.290)"
+                ],
+                [
+                    "p-SOFA score 0.712 (0.001*) 1 0.054 (0.366)",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Duration of PICU stay",
+                    "0.063 (0.290)",
+                    "0.054 (0.366)",
+                    "1"
+                ],
+                [
+                    "Data expressed as Spearmen's rho (p-value)",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "*Statistically significant",
+                    "",
+                    "",
+                    ""
+                ]
+            ],
+            "markdown": "|  | PRISM III 24 score | p-SOFA score | Duration of PICU stay |\n|---|---|---|---|\n| PRISM III 24 score | 1 | 0.712 (0.001*) | 0.063 (0.290) |\n| p-SOFA score 0.712 (0.001*) 1 0.054 (0.366) |  |  |  |\n| Duration of PICU stay | 0.063 (0.290) | 0.054 (0.366) | 1 |\n| Data expressed as Spearmen's rho (p-value) |  |  |  |\n| *Statistically significant |  |  |  |"
+        },
+        {
+            "table_id": 7,
+            "page_number": 6,
+            "index": 0,
+            "rows": 2,
+            "cols": 1,
+            "headers": [
+                "30-day mortality Statistics Yes No p-SOFA score 153 76 > 2 Chi-square test=45.19 (p=0.001), Sensitivity=93.87%, Specificity=38.21%, PPV=66.81%, (93.9%) (61.8%) NPV=82.46%, Accuracy=69.93% 10 47 \u00e2\u2030\u00a4 2 (6.1%) (38.2%) PRISM III 24 score 91 28 > 8 (55.8%) (22.8%) Chi-square test=31.54 (p=0.001), Sensitivity=55.83%, Specificity=77.24%, PPV=76.47%, NPV=56.89%, Accuracy=65.03% 72 95 \u00e2\u2030\u00a4 8 (44.2%) (77.2%)"
+            ],
+            "data": [
+                [
+                    "TABLE 3: Diagnostic accuracy of p-SOFA and PRISM III 24 score by taking 30-day mortality (n=286) PRISM: Pediatric Risk of Mortality; p-SOFA: Pediatric Sequential Organ Failure Assessment; PPV: positive predictive value; NPV: negative predictive value"
+                ]
+            ],
+            "table_2d_array": [
+                [
+                    "30-day mortality Statistics Yes No p-SOFA score 153 76 > 2 Chi-square test=45.19 (p=0.001), Sensitivity=93.87%, Specificity=38.21%, PPV=66.81%, (93.9%) (61.8%) NPV=82.46%, Accuracy=69.93% 10 47 \u00e2\u2030\u00a4 2 (6.1%) (38.2%) PRISM III 24 score 91 28 > 8 (55.8%) (22.8%) Chi-square test=31.54 (p=0.001), Sensitivity=55.83%, Specificity=77.24%, PPV=76.47%, NPV=56.89%, Accuracy=65.03% 72 95 \u00e2\u2030\u00a4 8 (44.2%) (77.2%)"
+                ],
+                [
+                    "TABLE 3: Diagnostic accuracy of p-SOFA and PRISM III 24 score by taking 30-day mortality (n=286) PRISM: Pediatric Risk of Mortality; p-SOFA: Pediatric Sequential Organ Failure Assessment; PPV: positive predictive value; NPV: negative predictive value"
+                ]
+            ],
+            "markdown": "| 30-day mortality Statistics Yes No p-SOFA score 153 76 > 2 Chi-square test=45.19 (p=0.001), Sensitivity=93.87%, Specificity=38.21%, PPV=66.81%, (93.9%) (61.8%) NPV=82.46%, Accuracy=69.93% 10 47 \u00e2\u2030\u00a4 2 (6.1%) (38.2%) PRISM III 24 score 91 28 > 8 (55.8%) (22.8%) Chi-square test=31.54 (p=0.001), Sensitivity=55.83%, Specificity=77.24%, PPV=76.47%, NPV=56.89%, Accuracy=65.03% 72 95 \u00e2\u2030\u00a4 8 (44.2%) (77.2%) |\n|---|\n| TABLE 3: Diagnostic accuracy of p-SOFA and PRISM III 24 score by taking 30-day mortality (n=286) PRISM: Pediatric Risk of Mortality; p-SOFA: Pediatric Sequential Organ Failure Assessment; PPV: positive predictive value; NPV: negative predictive value |"
+        },
+        {
+            "table_id": 8,
+            "page_number": 6,
+            "index": 1,
+            "rows": 6,
+            "cols": 4,
+            "headers": [
+                "",
+                "30-day mortality",
+                "",
+                "Statistics"
+            ],
+            "data": [
+                [
+                    "",
+                    "Yes",
+                    "No",
+                    ""
+                ],
+                [
+                    "p-SOFA score 153 76 > 2 Chi-square test=45.19 (p=0.001), Sensitivity=93.87%, Specificity=38.21%, PPV=66.81%, (93.9%) (61.8%) NPV=82.46%, Accuracy=69.93% 10 47 \u00e2\u2030\u00a4 2 (6.1%) (38.2%)",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "PRISM III 24 score",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "91 28 > 8 (55.8%) (22.8%) Chi-square test=31.54 (p=0.001), Sensitivity=55.83%, Specificity=77.24%, PPV=76.47%, NPV=56.89%, Accuracy=65.03% 72 95 \u00e2\u2030\u00a4 8 (44.2%) (77.2%)",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "\u00e2\u2030\u00a4 8",
+                    "72 (44.2%)",
+                    "95 (77.2%)",
+                    ""
+                ]
+            ],
+            "table_2d_array": [
+                [
+                    "",
+                    "30-day mortality",
+                    "",
+                    "Statistics"
+                ],
+                [
+                    "",
+                    "Yes",
+                    "No",
+                    ""
+                ],
+                [
+                    "p-SOFA score 153 76 > 2 Chi-square test=45.19 (p=0.001), Sensitivity=93.87%, Specificity=38.21%, PPV=66.81%, (93.9%) (61.8%) NPV=82.46%, Accuracy=69.93% 10 47 \u00e2\u2030\u00a4 2 (6.1%) (38.2%)",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "PRISM III 24 score",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "91 28 > 8 (55.8%) (22.8%) Chi-square test=31.54 (p=0.001), Sensitivity=55.83%, Specificity=77.24%, PPV=76.47%, NPV=56.89%, Accuracy=65.03% 72 95 \u00e2\u2030\u00a4 8 (44.2%) (77.2%)",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "\u00e2\u2030\u00a4 8",
+                    "72 (44.2%)",
+                    "95 (77.2%)",
+                    ""
+                ]
+            ],
+            "markdown": "|  | 30-day mortality |  | Statistics |\n|---|---|---|---|\n|  | Yes | No |  |\n| p-SOFA score 153 76 > 2 Chi-square test=45.19 (p=0.001), Sensitivity=93.87%, Specificity=38.21%, PPV=66.81%, (93.9%) (61.8%) NPV=82.46%, Accuracy=69.93% 10 47 \u00e2\u2030\u00a4 2 (6.1%) (38.2%) |  |  |  |\n| PRISM III 24 score |  |  |  |\n| 91 28 > 8 (55.8%) (22.8%) Chi-square test=31.54 (p=0.001), Sensitivity=55.83%, Specificity=77.24%, PPV=76.47%, NPV=56.89%, Accuracy=65.03% 72 95 \u00e2\u2030\u00a4 8 (44.2%) (77.2%) |  |  |  |\n| \u00e2\u2030\u00a4 8 | 72 (44.2%) | 95 (77.2%) |  |"
+        }
+    ]
+}
