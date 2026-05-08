@@ -40,7 +40,7 @@ class SepsisExtraction(BaseModel):
 # --- Главная функция сборки ---
 def build_sepsis_atlas():
     print("📥 Загрузка всех документов...")
-    all_documents = load_medical_pdfs("./articles")
+    all_documents = load_medical_pdfs("articles/articles")
     
     # Группируем страницы по имени файла
     docs_by_file = defaultdict(list)
