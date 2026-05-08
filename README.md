@@ -15,9 +15,17 @@ The pipeline uses OpenRouter for LLM extraction. Without a valid `OPENROUTER_API
 
 ## Setup
 
+**Linux & Mac**
 ```bash
 python3 -m venv venv
 source venv/bin/activate
+pip install -r requirements.txt
+```
+
+**For Win**
+``` bash
+python -m venv venv
+.\venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
@@ -40,7 +48,7 @@ OPENROUTER_BASE_URL=https://openrouter.ai/api/v1
 OPENROUTER_HTTP_REFERER=http://localhost:8501
 OPENROUTER_APP_TITLE=Sepsis Atlas Hackathon
 ATLAS_WORKERS=4
-ATLAS_VISION_MODE=off
+ATLAS_VISION_MODE=auto
 ATLAS_VISION_ERROR_POLICY=warn
 ```
 
@@ -48,14 +56,25 @@ ATLAS_VISION_ERROR_POLICY=warn
 
 OpenRouter extraction:
 
-> Avoid using --vision-mode all—it consumes way too many tokens and could get you roasted in the general channel (don't ask how we found out).
+> Avoid using '--vision-mode all' - it consumes way too many tokens and could get you roasted in the general channel (don't ask how we found out).
 
+**Linux & Mac**
 ```bash
 python build_atlas.py \
   --articles ./articles \
   --backend llm \
   --workers 4 \
   --vision-mode off \
+  --query "What predictors, biomarkers, severity scores, statistical methods, effect sizes, and model performance metrics are reported for mortality estimation in sepsis?"
+```
+
+**Win**
+``` bash
+python build_atlas.py `
+  --articles ./articles `
+  --backend llm `
+  --workers 4 `
+  --vision-mode off `
   --query "What predictors, biomarkers, severity scores, statistical methods, effect sizes, and model performance metrics are reported for mortality estimation in sepsis?"
 ```
 
@@ -69,6 +88,11 @@ Performance knobs:
 - `--vision-dpi 144`: controls rendered page resolution. Higher values can improve OCR but increase latency and token/image cost.
 - `--top-k-per-study 6`: fewer passages per paper usually reduces token use and latency.
 - `--max-pages-per-pdf 12`: useful for quick demos when full-paper extraction is not needed.
+
+Usage Pricing:
+
+- `--vision-mode off` - approximately $0.04 per run
+- `--vision-mode all` - approximately $1.50 per run
 
 Optional regex fallback for offline debugging:
 
@@ -119,3 +143,4 @@ The repository includes a prebuilt `sepsis_atlas_results.csv` so the UI can be d
 ## Limitations
 
 This is a research-assistant prototype, not a clinical decision tool. The regex fallback is intentionally conservative and should be reviewed. LLM extraction improves flexibility, but values must still be verified against the source anchors before any downstream analysis.
+
