@@ -12,3 +12,6 @@ __pycache__/
 
 .vscode/
 .idea/
+
+sepsis_db/
+static/source_pdfs/
