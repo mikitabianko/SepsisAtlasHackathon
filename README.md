@@ -48,6 +48,8 @@ ATLAS_VISION_ERROR_POLICY=warn
 
 OpenRouter extraction:
 
+> Avoid using --vision-mode all—it consumes way too many tokens and could get you roasted in the general channel (don't ask how we found out).
+
 ```bash
 python build_atlas.py \
   --articles ./articles \
